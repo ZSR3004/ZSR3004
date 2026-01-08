@@ -20,7 +20,7 @@ to leverage machine learning in their pipeline which was previously too technica
 I had a ton of fun collaborating with friends over Github on this project, and I hope I get the opportunity
 to collaborate with them again.
 
-Outside of programming, I'm part of the [Wesleyan University's Mock Trial Team](https://wesmocktrial.com).
+Outside of programming, I'm part of the [Wesleyan University Mock Trial Team](https://wesmocktrial.com).
 When I was financial manager, I managed a budget of about $20,000 and organized the team's competition fees,
 lodging for away tournaments, and community building events. I've competed with their A-team since my 
 freshman year, and I'm really thankful to be part of a community (and show-off my acting chops).
