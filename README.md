@@ -93,9 +93,12 @@ so there's a lot of interest in optimizing these solvers.
 
 
 ### Connect With Me
+<!-- TODO: Add icons -->
 
 You can connect with me over the following platforms.
 
-[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&reverseBackground=true&link=zrahman3004%40gmail.com)](zrahman3004@gmail.com)
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fziyad-s-rahman%2F)](https://www.linkedin.com/in/ziyad-s-rahman/)
-[📖](https://zsr.mataroa.blog)
+[Gmail](zrahman3004@gmail.com): This is definitely the best way to get in touch with me!
+
+[LinkedIn](https://www.linkedin.com/in/ziyad-s-rahman/): I'm on here too!
+
+[Mataroa Blog](https://zsr.mataroa.blog): I write essays about software engineering sometimes!
