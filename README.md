@@ -68,7 +68,7 @@ The first is `Retrieve` a drop-in Git replacement written in Rust. Git is perhap
 ever created, but it has its downsides. In particular, I have three problems with it.
 
 1. [It was originally created as a scripting language](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain), 
-and the command line tool was built on top of it. That contributes to sluggish execution on large databases.
+and the command line tool was built on top of it. That contributes to sluggish execution on large code bases.
 
 2. The code base is notoriously difficult to read and the inner workings, 
 [difficult to understand](https://news.ycombinator.com/item?id=16807206). This is a pretty regular problem with code bases,
