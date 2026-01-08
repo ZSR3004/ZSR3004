@@ -99,7 +99,7 @@ so there's a lot of interest in optimizing these solvers.
 
 You can connect with me over the following platforms.
 
-[Gmail](zrahman3004@gmail.com): This is definitely the best way to get in touch with me!
+<zrahman3004@gmail.com>: This is definitely the best way to get in touch with me!
 
 [LinkedIn](https://www.linkedin.com/in/ziyad-s-rahman/): I'm on here too!
 
