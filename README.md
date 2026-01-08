@@ -1,4 +1,4 @@
-## Hi, I'm Ziyad Rahman
+## Hi, I'm Ziyad Rahman!
 
 If you want the highlights, check out my [Resume](https://github.com/ZSR3004/ZSR3004/blob/main/Ziyad_Rahman_Resume.pdf)!
 
