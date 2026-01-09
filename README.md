@@ -43,7 +43,8 @@ On the technical side, we built out a robust testing-framework using `pytest` an
 state-of-the-art computer vision algorithms from `open-cv` to create the actual data analysis
 capabilities. I'm particularly proud of how we experimented with how machine learning learning
 could fit into their analysis which provided a significant increase in the accuracy of the
-program.
+program. I had a lot fun using `pytorch` and reading academic papers to create new machine
+learning applications. 
 
 
 #### [Arxiv Paper Search](https://ZSR3004/arxiv_paper_search)
