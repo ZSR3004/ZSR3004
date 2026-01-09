@@ -94,6 +94,8 @@ revolve around [SAT Solvers](https://en.wikipedia.org/wiki/SAT_solver) and in pa
 computer program to solve logic problems. It has a ton of uses from pharmaceuticals to package manager to even AI, 
 so there's a lot of interest in optimizing these solvers.
 
+For a very closely related project, check out the [DPPL SAT Solver that I implemented in OCaml](https://github.com/ZSR3004/ocaml-dpll/tree/main).
+
 
 ### Connect With Me
 <!-- TODO: Add icons -->
