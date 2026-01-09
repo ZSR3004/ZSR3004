@@ -1,6 +1,6 @@
 ## Hi, I'm Ziyad Rahman!
 
-If you want the highlights, check out my [Resume](https://github.com/ZSR3004/ZSR3004/blob/main/Ziyad_Rahman_Resume.pdf)!
+If you want the highlights, check out my [Resume](https://drive.google.com/file/d/1Tacf1WdPLWVaLbqxdj9M_3tQsQlImqZm/view?usp=sharing)!
 
 I'm a Junior at Wesleyan University, majoring in Computer Science and Mathematics with a Data Analysis Minor. I'm
 interested in software engineering, and my interests lie in two broad categories: developer tools and 
