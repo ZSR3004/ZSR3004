@@ -10,8 +10,9 @@ I'm fascinated by the way tools I use daily work, weather that be Git, Compilers
 recreate them from scratch in low-level languages like C or Rust with a few major differences to see if I can
 improve on their design ([see my current endeavor below!](<README#What I'm Currently Working On>). I also 
 really like creating tools that help me in my own workflow, usually as [Neovim](https://neovim.io) plugins
-(Yes, I use Neovim btw). Feel free to check out my [Neovim Configuration](https://github.com/ZSR3004/nvim) for 
-inspiration!
+(Yes, I use Neovim btw). Feel free to check out my 
+[Neovim Configuration](https://github.com/ZSR3004/dotfiles/tree/main/.config/nvim) for 
+inspiration! You can also check out the rest of [my dotfiles here](https://github.com/ZSR3004/dotfiles).
 
 On the other side, I really like creating programs to boost productivity for others. Most recently, I worked
 with the [Mitchel Lab](http://www.jennifermitchel.com), a biology lab at Wesleyan, to improve their video
