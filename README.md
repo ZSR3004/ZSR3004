@@ -81,7 +81,7 @@ to Git stash and pop to switch branches and the alternative, [Git Worktrees](htt
 a lot of the simplicity that makes Git abstraction work.
 
 So, I decided to make `Retrieve` or `Rtv` to fix these issues and add some quality of life features. In short, I'll be
-using a similar abstraction to Git, but making the implementation more idiomatic so it's to maintain. Building it 
+using a similar abstraction to Git, but making the implementation more idiomatic so it's easier to maintain. Building it 
 from the ground up with this intent hopefully makes `Rtv` faster as a version control system when compare to Git. I'll
 also be completely reworking the branch management system, so you can hop between branches with uncommitted changes. I
 also want this to be usable, so I'll be adding ways to make a Git repository into the `Rtv` equivalent and vice-versa,
