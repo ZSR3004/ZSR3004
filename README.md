@@ -6,11 +6,10 @@ I'm a Junior at Wesleyan University, majoring in Computer Science and Mathematic
 interested in software engineering, and my interests lie in two broad categories: developer tools and 
 optimizing data analysis pipelines for researchers.
 
-I'm fascinated by the way tools I use daily work, weather that be Git, Compilers, or SQL databases. I love to 
+I'm fascinated by the way tools I use daily work, whether that be Git, Compilers, or SQL databases. I love to 
 recreate them from scratch in low-level languages like C or Rust with a few major differences to see if I can
 improve on their design ([see my current endeavor below!](<README#What I'm Currently Working On>). I also 
-really like creating tools that help me in my own workflow, usually as [Neovim](https://neovim.io) plugins
-(Yes, I use Neovim btw). Feel free to check out my 
+really like creating tools that help me in my own workflow, usually as [Neovim](https://neovim.io) plugins. Feel free to check out my 
 [Neovim Configuration](https://github.com/ZSR3004/dotfiles/tree/main/.config/nvim) for 
 inspiration! You can also check out the rest of [my dotfiles here](https://github.com/ZSR3004/dotfiles).
 
