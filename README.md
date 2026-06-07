@@ -2,28 +2,29 @@
 
 If you want the highlights, check out my [Resume](https://drive.google.com/file/d/1Tacf1WdPLWVaLbqxdj9M_3tQsQlImqZm/view?usp=sharing)!
 
-I'm a Junior at Wesleyan University, majoring in Computer Science and Mathematics with a Data Analysis Minor. I'm
-interested in software engineering, and my interests lie in two broad categories: developer tools and 
-optimizing data analysis pipelines for researchers.
 
-I'm fascinated by the way tools I use daily work, whether that be Git, Compilers, or SQL databases. I love to 
-recreate them from scratch in low-level languages like C or Rust with a few major differences to see if I can
-improve on their design ([see my current endeavor below!](<README#What I'm Currently Working On>). I also 
-really like creating tools that help me in my own workflow, usually as [Neovim](https://neovim.io) plugins. Feel free to check out my 
+I'm a rising senior at Wesleyan University, majoring in Computer Science and Mathematics with a Data Analysis minor. I'm
+interested in software development. In particular, I enjoy creating developer tools and streamlining data analysis 
+pipelines.
+
+I'm fascinated by how the tools I use work. Whether it be Git, Compilers, or SQL databases, I love to recreate them from
+scratch in low-level programming languages like C or Rust. When I recreate them, I often make a few major changes to see
+if I can improve on their design ([see my current endeavor below!)](<README#What I'm Currently Working On>). 
+I also really like creating tools that help me in my own workflow, usually as [Neovim](https://neovim.io) plugins. Feel free to check out my 
 [Neovim Configuration](https://github.com/ZSR3004/dotfiles/tree/main/.config/nvim) for 
 inspiration! You can also check out the rest of [my dotfiles here](https://github.com/ZSR3004/dotfiles).
 
-On the other side, I really like creating programs to boost productivity for others. Most recently, I worked
+On the other hand, I really like creating programs to boost productivity for others. Most recently, I worked
 with the [Mitchel Lab](http://www.jennifermitchel.com), a biology lab at Wesleyan, to improve their video
-analysis pipeline through an app called [Cell-Tracking](https://ZSR3004/cell-tracking). We even enabled them
-to leverage machine learning in their pipeline which was previously too technical for them to implement.
+analysis pipeline through an app called [Cell-Tracking](https://ZSR3004/cell-tracking). 
+We even added machine learning in their data analysis pipeline which was previously too technical for them to implement.
 I had a ton of fun collaborating with friends over Github on this project, and I hope I get the opportunity
 to collaborate with them again.
 
 Outside of programming, I'm part of the [Wesleyan University Mock Trial Team](https://wesmocktrial.com).
 When I was financial manager, I managed a budget of about $20,000 and organized the team's competition fees,
 lodging for away tournaments, and community building events. I've competed with their A-team since my 
-freshman year, and I'm really thankful to be part of a community (and show-off my acting chops).
+freshman year, and I'm really thankful to be part of that community (and show-off my acting chops).
 
 
 ### Here are Some Project Highlights
