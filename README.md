@@ -56,3 +56,5 @@ You can connect with me over the following platforms.
 
 [LinkedIn](https://www.linkedin.com/in/ziyad-s-rahman/): I'm on here too!
 
+You can also check out my [Resume](https://drive.google.com/file/d/1Tacf1WdPLWVaLbqxdj9M_3tQsQlImqZm/view?usp=sharing)!
+
