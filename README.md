@@ -1,36 +1,11 @@
 ## Hi, I'm Ziyad Rahman!
 
-If you want the highlights, check out my [Resume](https://drive.google.com/file/d/1Tacf1WdPLWVaLbqxdj9M_3tQsQlImqZm/view?usp=sharing)!
+I'm a senior at Wesleyan University, majoring in Computer Science and Mathematics.
+I'm interested in software development, specially programmer tools and AI development, especially as it pertains to 
+streamlining data analysis pipelines.
 
 
-I'm a rising senior at Wesleyan University, majoring in Computer Science and Mathematics with a Data Analysis minor. I'm
-interested in software development. In particular, I enjoy creating developer tools and streamlining data analysis 
-pipelines.
-
-I'm fascinated by how the tools I use work. Whether it be Git, Compilers, or SQL databases, I love to recreate them from
-scratch in low-level programming languages like C or Rust. When I recreate them, I often make a few major changes to see
-if I can improve on their design ([see my current endeavor below!)](<README#What I'm Currently Working On>). 
-I also really like creating tools that help me in my own workflow, usually as [Neovim](https://neovim.io) plugins. Feel free to check out my 
-[Neovim Configuration](https://github.com/ZSR3004/dotfiles/tree/main/.config/nvim) for 
-inspiration! You can also check out the rest of [my dotfiles here](https://github.com/ZSR3004/dotfiles).
-
-On the other hand, I really like creating programs to boost productivity for others. Most recently, I worked
-with the [Mitchel Lab](http://www.jennifermitchel.com), a biology lab at Wesleyan, to improve their video
-analysis pipeline through an app called [Cell-Tracking](https://ZSR3004/cell-tracking). 
-We even added machine learning in their data analysis pipeline which was previously too technical for them to implement.
-I had a ton of fun collaborating with friends over Github on this project, and I hope I get the opportunity
-to collaborate with them again.
-
-Outside of programming, I'm part of the [Wesleyan University Mock Trial Team](https://wesmocktrial.com).
-When I was financial manager, I managed a budget of about $20,000 and organized the team's competition fees,
-lodging for away tournaments, and community building events. I've competed with their A-team since my 
-freshman year, and I'm really thankful to be part of that community (and show-off my acting chops).
-
-
-### Here are Some Project Highlights
-
-If you're only visiting for a little, here are two projects you should definitely checkout before you go!
-
+### Here are Some Project Highlights!
 
 #### [Cell-Tracking](https://ZSR3004/cell-tracking)
 
@@ -53,53 +28,27 @@ learning applications.
 [Arxiv](https://arxiv.org) is a database of academic papers. They have papers on any topic you can 
 think of. The first step for a lot of researchers is reviewing literature to see what has already 
 been covered in their research topic. I wanted to create a tool help my friends who do research with
-this step. So, I create the `Arxiv Paper Search`. To use this program, you need to find a paper in
-the subject of interest. Then, you can give the program the URL for the paper and it will find 
+this step. So, I create the `Arxiv Paper Search`. 
+Given a paper, this program will find
 similar papers based on a tag and text analysis. Using natural language processing methods like
 cosine similarity indices, it returns a graph of papers, where the edges tell you how similar 
 two papers are to each other.
 
 
-### What I'm Currently Working On
+### What I'm Working on Right Now
 
-I'm currently working on two big projects that aren't ready for public viewing yet.
+I'm currently working on two projects:
 
-#### Retrieve
+The first is my senior thesis where I'm formalizing ZFC set theory into homotopy type theory using Agda.
+Basically, whenever OpenAI releases a math proof, people check it using a proof-checker (like Agda).
+My thesis is further developing such mathematical proof checkers by contributing to existing literature.
 
-The first is `Retrieve` a drop-in Git replacement written in Rust. Git is perhaps one of the most influential programs
-ever created, but it has its downsides. In particular, I have three problems with it.
-
-1. [It was originally created as a scripting language](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain), 
-and the command line tool was built on top of it. That contributes to sluggish execution on large code bases.
-
-2. The code base is notoriously difficult to read and the inner workings, 
-[difficult to understand](https://news.ycombinator.com/item?id=16807206). This is a pretty regular problem with code bases,
-but Git's abstraction is so powerful, it's a shame it isn't really represented in the code well (as far as I can tell).
-
-3. This one is a little more of a personal gripe. I'm not a fan of how switching branches work. I REALLY don't like having
-to Git stash and pop to switch branches and the alternative, [Git Worktrees](https://git-scm.com/docs/git-worktree) remove 
-a lot of the simplicity that makes Git abstraction work.
-
-So, I decided to make `Retrieve` or `Rtv` to fix these issues and add some quality of life features. In short, I'll be
-using a similar abstraction to Git, but making the implementation more idiomatic so it's easier to maintain. Building it 
-from the ground up with this intent hopefully makes `Rtv` faster as a version control system when compare to Git. I'll
-also be completely reworking the branch management system, so you can hop between branches with uncommitted changes. I
-also want this to be usable, so I'll be adding ways to make a Git repository into the `Rtv` equivalent and vice-versa,
-so you can also upstream your repository to Github.
-
-#### CDCL SAT Solver (Senior Thesis)
-
-The second project is (hopefully) related to my senior thesis. I'm not 100% sure what I want to do, but I know it will 
-revolve around [SAT Solvers](https://en.wikipedia.org/wiki/SAT_solver) and in particular 
-[CDLC SAT Solvers](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning). A SAT Solver is basically a fancy 
-computer program to solve logic problems. It has a ton of uses from pharmaceuticals to package manager to even AI, 
-so there's a lot of interest in optimizing these solvers.
-
-For a very closely related project, check out the [DPPL SAT Solver that I implemented in OCaml](https://github.com/ZSR3004/ocaml-dpll/tree/main).
-
+The second project is related to my thesis. It's small plugin for [Neovim](https://neovim.io) 
+([you can see my config here](https://github.com/ZSR3004/dotfiles/tree/main/.config/nvim)).
+Agda is an interactive programming language (as are most proof-checkers).
+I'm creating a plugin to let me interact with Agda so I don't have to use VSCode or Emacs.
 
 ### Connect With Me
-<!-- TODO: Add icons -->
 
 You can connect with me over the following platforms.
 
@@ -107,4 +56,3 @@ You can connect with me over the following platforms.
 
 [LinkedIn](https://www.linkedin.com/in/ziyad-s-rahman/): I'm on here too!
 
-[Mataroa Blog](https://zsr.mataroa.blog): I write essays about software engineering sometimes!
